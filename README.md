@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuja Uthaman</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Netflix GPT demo project](https://github.com/uthamananuja/netflix-gpt)
+- 🔭 I’m currently working on [Netflix GPT](https://github.com/uthamananuja/netflix-gpt) demo project
 
 - 🌱 I’m currently learning **React.js**
 
@@ -12,6 +12,20 @@
 - 📫 How to reach me **https://www.linkedin.com/in/anuja-uthaman-98975897/**
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/anuja-uthaman-98975897/
+
+<h3>Projects</h3>
+
+🍽️ Foodiespot Restaurant Template
+
+- Responive HTML Template
+- Live Demo: https://foodiespot-restaurant-template.netlify.app/
+
+🏠 Homie Real Estate Template
+
+- Responive HTML Template
+- Live Demo: https://homie-real-estate-template.netlify.app/
+  
 <p align="left">
 </p>
 
